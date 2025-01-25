@@ -1,7 +1,6 @@
 # PULSE - Plugins Union: Learning, Synergy and Excellence
 
-> This is where the horizontal "pulse core" label is placed. 
-> ![PULSE Core](https://path/to/your/logo.png)
+![Pulse Core](https://github.com/user-attachments/assets/b7425fa6-fd9c-40d8-a194-c554f35c6439) 
 
 **Welcome to the PULSE GitHub organization!**
 
